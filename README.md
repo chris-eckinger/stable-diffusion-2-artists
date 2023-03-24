@@ -7,10 +7,10 @@ This repo contains a curated list of artists whose names can be added to Stable 
 
 Most of the artists listed here are either modern digital artists or have a style that I think is cool.
 
-All images are generated with model 1.4 and the following parameters:
+All images are generated with model 2.1 and the following parameters:
 
 Prompt: \<artist name> art
 Seed: 0
-Size: 512x512
-CSG: 7.5
+Size: 768x768
+Guidance Scale: 7.5
 Sampling Steps: 30
