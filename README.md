@@ -13,4 +13,4 @@ Prompt: \<artist name> art
 Seed: 0
 Size: 768x768
 Guidance Scale: 7.5
-Sampling Steps: 30
+Sampling Steps: 25
