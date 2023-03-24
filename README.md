@@ -1,4 +1,4 @@
-This is a follow up of [Kai Schmidts](https://github.com/kaikalii) stable-diffusion-artists[https://github.com/kaikalii/stable-diffusion-artists] for use with stable diffusion versions 2+. Make sure to check out his list as well. 
+This is a follow up of [Kai Schmidts](https://github.com/kaikalii) [stable-diffusion-artists](https://github.com/kaikalii/stable-diffusion-artists) for use with stable diffusion versions 2+. Make sure to check out his list as well. 
 
 # Description
 
